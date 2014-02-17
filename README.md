@@ -2,10 +2,10 @@ webaltakiller
 =============
 Tool for removing webalta malware
 
-Как собирать?
+РљР°Рє СЃРѕР±РёСЂР°С‚СЊ?
 =============
-Программа собиралась с помощью Rad Studio Delphi XE.
-Кроме самого Delphi потребеутся Overbyte ICS v6(и выше) - http://www.overbyte.be/.
-Ссылки на последнюю официальную сборку:
+РџСЂРѕРіСЂР°РјРјР° СЃРѕР±РёСЂР°Р»Р°СЃСЊ СЃ РїРѕРјРѕС‰СЊСЋ Rad Studio Delphi XE.
+РљСЂРѕРјРµ СЃР°РјРѕРіРѕ Delphi РїРѕС‚СЂРµР±РµСѓС‚СЃСЏ Overbyte ICS v6(Рё РІС‹С€Рµ) - http://www.overbyte.be/.
+РЎСЃС‹Р»РєРё РЅР° РїРѕСЃР»РµРґРЅСЋСЋ РѕС„РёС†РёР°Р»СЊРЅСѓСЋ СЃР±РѕСЂРєСѓ:
 https://disk.yandex.ru/public/?hash=9rFgpu/e/d1EI92sX%2BCMpdrzsnZFv7/rvgyBPGnueCU%3D
 https://mega.co.nz/#!QZZ2zTRa!UFHorz2XxboX5QDSf7csaWIzZYtGaVwgZaYsqAodtho
